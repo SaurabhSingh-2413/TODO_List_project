@@ -1,0 +1,57 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+  <display-name>Archetype Created Web Application</display-name>
+  <servlet>
+  	<servlet-name>DataAction</servlet-name>
+  	<display-name>DataAction</display-name>
+  	<description></description>
+  	<servlet-class>com.mypack_Entities.DataAction</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>DataAction1</servlet-name>
+  	<display-name>DataAction1</display-name>
+  	<description></description>
+  	<servlet-class>com.mypack.servalets.DataAction1</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>AccessData</servlet-name>
+  	<display-name>AccessData</display-name>
+  	<description></description>
+  	<servlet-class>com.mypack.servalets.AccessData</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>EditAction1</servlet-name>
+  	<display-name>EditAction1</display-name>
+  	<description></description>
+  	<servlet-class>com.mypack.servalets.EditAction1</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>SearchAction1</servlet-name>
+  	<display-name>SearchAction1</display-name>
+  	<description></description>
+  	<servlet-class>com.mypack.servalets.SearchAction1</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>DataAction</servlet-name>
+  	<url-pattern>/DataAction</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>DataAction1</servlet-name>
+  	<url-pattern>/DataAction1</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>AccessData</servlet-name>
+  	<url-pattern>/AccessData</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>EditAction1</servlet-name>
+  	<url-pattern>/EditAction1</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>SearchAction1</servlet-name>
+  	<url-pattern>/SearchAction1</url-pattern>
+  </servlet-mapping>
+</web-app>
