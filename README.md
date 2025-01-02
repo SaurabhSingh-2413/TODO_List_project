@@ -1,6 +1,10 @@
+<h1>This is TODO List project</h1>
+<h6>Create this project using HTML, Css, Java, Mysql</h6>
+
+
 <h1>#This is the Front page of TODO list<h1>
 
-<h5>* This is main and front part of TODO list. We can starts from the start button.</h5>
+<h5>* This is main OR front page of TODO list. We can starts from the start button.</h5>
   
 ![image alt](https://github.com/user-attachments/assets/22dba9e8-d4ef-4b61-96e6-2872fda44fa7)
 
