@@ -1,5 +1,6 @@
 <h1>This is TODO List project</h1>
-<h6>Create this project using HTML, Css, Java, Mysql</h6>
+<h6>* Whatever work we do in our daily life that is important for us, then we write that work in a TODO-List note so that we remember what to do now.its just like a time table</h6>
+<h6>* Used to make it this project using Jsp, Css, Java, Mysql</h6>
 
 
 <h1>#This is the Front page of TODO list (Home Page)<h1>
