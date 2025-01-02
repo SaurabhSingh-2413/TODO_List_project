@@ -11,7 +11,7 @@
 
 <h1>#This is the Second page of TODO list (Add Notes)</h1>
 
-<h6>* In this page we can write all that we work in daily life in this Add Notes page</h6>
+<h6>* In this page we can write all that we work in our daily life in this Add Notes page</h6>
 <h6>* Enter first Title and second is content</h6>
 <h6>* After filled all the feilds then press on Add button</h6>
 
