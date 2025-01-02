@@ -15,7 +15,7 @@
 <h1>#This is Third page of TODO list</h1>
 
 <h6>* After press on Add button then you redirect on Show Notes page</h6>
-<h6>* In this Show Notes page show the entire data</h6>
+<h6>* In this Show Notes page showing the entire data</h6>
 <h6>* We can re-write or edit existing note just click on edit icon</h6>
 <h6>* We can delete the data from the database just click on delete icon</h6>
 
@@ -51,7 +51,8 @@
 ![image alt](https://github.com/user-attachments/assets/8cb81403-42b4-4b20-9ccb-877323d8a2dd)
 
 <h3>Searched Note</h3>
-<h6>After click on search button</h6>
+<h6>* After click on search button</h6>
+<h6>* We can also Edit or Delete the notes</h6>
 
 ![image alt](https://github.com/user-attachments/assets/7ef06f13-50cb-4e8a-8a0e-9945643dd3f5)
 
